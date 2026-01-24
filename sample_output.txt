@@ -1,0 +1,5 @@
+Enter a password to analyze: Pass123
+
+Password is WEAK:
+- Password is too short (minimum 8 characters).
+- Missing special character.
