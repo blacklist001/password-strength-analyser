@@ -1,7 +1,7 @@
 # Password Strength Analyzer
 
 ## Description
-A beginner cybersecurity project that evaluates password
+A cybersecurity project that evaluates password
 strength and explains common weaknesses.
 
 ## Features
